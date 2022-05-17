@@ -8,8 +8,8 @@ The utility expects a 4x3 jpg as input and outputs the following:
 
 ## Usage
 ```bash
-java -jar instapan.jar [input image jpg path] [output image path]
+java -jar instapan.jar [input 4x3 jpg path] [output dir]
 ```
 
 WARNING: there is little to no validation of inputs. Always pass in
-in 4x3 jpg. Otherwise, you are on your own.
+a 4x3 jpg. Otherwise, you are on your own.
